@@ -1,9 +1,9 @@
 physiques,acteurs,concept label,concept uri,sujet,predicat,objet
-casque,ouvriers,séminaire ,Linked Open Vocabularies (linkeddata.es),a3,c4,p2
-pelle mécanique,conducteurs travaux,arcanes,,a3,c4,p2
-camion,ingénieurs,éditorialiser,,,,
-grue,architectes,,,,,
-telephone,managers,,,,,
+casque,ouvriers,gestion,https://www.youtube.com/watch?v=Y6a27QAFQmw,a3,c4,p2
+pelle mécanique,conducteurs travaux,management ,,a3,c4,p2
+camion,ingénieurs,approvisionnement,,,,
+grue,architectes,construction,,,,
+telephone,managers,planification,,,,
 aptope,,,,,,
 camera,,,,,,
 capteur ,,,,,,
