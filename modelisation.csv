@@ -1,3 +1,10 @@
-physiques,acteurs,concept label,concept uri
-Vidéo,cherch,séminaire ,
-,,arcanes ,
+physiques,acteurs,concept label,concept uri,sujet,predicat,objet
+casque,ouvriers,séminaire ,Linked Open Vocabularies (linkeddata.es),a3,c4,p2
+pelle mécanique,conducteurs travaux,arcanes,,a3,c4,p2
+camion,ingénieurs,éditorialiser,,,,
+grue,architectes,,,,,
+telephone,managers,,,,,
+aptope,,,,,,
+camera,,,,,,
+capteur ,,,,,,
+gps,,,,,,
