@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="800"
+   height="600"
+   viewBox="0 0 211.66667 158.75"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="dessin.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.65512531"
+     inkscape:cx="504.48364"
+     inkscape:cy="271.70374"
+     inkscape:window-width="1294"
+     inkscape:window-height="728"
+     inkscape:window-x="56"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
+     width="800mm"
+     units="px" />
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient11797"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="0"
+         id="stop11795" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient9747"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop9745" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient9130">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop9126" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop9128" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient9130"
+       id="linearGradient9132"
+       x1="89.704735"
+       y1="427.91629"
+       x2="86.145294"
+       y2="548.88239"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient11797"
+       id="linearGradient11799"
+       x1="17.002329"
+       y1="236.17212"
+       x2="172.04961"
+       y2="236.17212"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.87102619,0,0,0.89650348,14.494245,-111.30714)" />
+  </defs>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <ellipse
+       style="fill:url(#linearGradient11799);fill-opacity:1;stroke:#000000;stroke-width:0.233805;stroke-opacity:1"
+       id="path9743"
+       cx="96.828835"
+       cy="100.422"
+       rx="67.409889"
+       ry="35.586876" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.198986px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 63.215515,106.93121 c 2.959186,-8.286892 1.783934,-31.73339 1.73488,-51.050494 v -33.60824"
+       id="path9596"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.223395px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 119.59915,109.87579 3.03604,-35.925052 -1.30115,-47.721324"
+       id="path9354" />
+    <g
+       id="g9531"
+       transform="matrix(0.75937558,0,0,0.57733085,28.951609,-2.1286339)">
+      <rect
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.223763;stroke-opacity:1"
+         id="rect35"
+         width="53.729279"
+         height="25.742744"
+         x="18.827665"
+         y="31.393051" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="28.961544"
+         y="46.62862"
+         id="text3290"><tspan
+           sodipodi:role="line"
+           id="tspan3288"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="28.961544"
+           y="46.62862">ordinateur</tspan></text>
+    </g>
+    <rect
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.148159;stroke-opacity:1"
+       id="rect4636"
+       width="40.800701"
+       height="14.862081"
+       x="99.198784"
+       y="15.995543" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.2045px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.175187"
+       x="91.645561"
+       y="28.041658"
+       id="text4640"
+       transform="scale(1.1468746,0.87193491)"><tspan
+         sodipodi:role="line"
+         id="tspan4638"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.2045px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.175187"
+         x="91.645561"
+         y="28.041658">smartphone</tspan></text>
+    <g
+       id="g9526"
+       transform="matrix(0.75937558,0,0,0.57733085,29.385329,12.709879)">
+      <path
+         sodipodi:type="star"
+         style="fill:url(#linearGradient9132);fill-opacity:1;stroke:#000000;stroke-opacity:1"
+         id="path5412"
+         inkscape:flatsided="true"
+         sodipodi:sides="6"
+         sodipodi:cx="90.665054"
+         sodipodi:cy="282.7886"
+         sodipodi:r1="145.13087"
+         sodipodi:r2="125.68703"
+         sodipodi:arg1="0.53021577"
+         sodipodi:arg2="1.0538145"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="M 215.86917,356.18412 89.704731,427.9163 -35.49938,354.52079 -34.539057,209.39309 91.625377,137.66091 216.82949,211.05642 Z"
+         transform="matrix(0.2133756,0,0,0.18226727,27.882159,41.031703)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="34.251919"
+         y="94.850639"
+         id="text6175"><tspan
+           sodipodi:role="line"
+           id="tspan6173"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="34.251919"
+           y="94.850639">ouvriers</tspan></text>
+    </g>
+    <g
+       id="g9686"
+       transform="matrix(0.75937558,0,0,0.57733085,29.974649,14.813358)">
+      <path
+         sodipodi:type="star"
+         style="fill:#ffffff;stroke:#000000;stroke-opacity:1"
+         id="path5412-8"
+         inkscape:flatsided="true"
+         sodipodi:sides="6"
+         sodipodi:cx="90.665054"
+         sodipodi:cy="282.7886"
+         sodipodi:r1="145.13087"
+         sodipodi:r2="125.68703"
+         sodipodi:arg1="0.53021577"
+         sodipodi:arg2="1.0538145"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         transform="matrix(0.2133756,0,0,0.18226727,101.73891,39.841509)"
+         d="M 215.86917,356.18412 89.704731,427.9163 -35.49938,354.52079 -34.539057,209.39309 91.625377,137.66091 216.82949,211.05642 Z" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="105.13831"
+         y="92.508575"
+         id="text6175-3"><tspan
+           sodipodi:role="line"
+           id="tspan6173-3"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="105.13831"
+           y="92.508575">managers</tspan></text>
+    </g>
+    <g
+       id="g9521"
+       transform="matrix(0.75937558,0,0,0.57733085,30.68649,23.591456)">
+      <ellipse
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.210746;stroke-opacity:1"
+         id="path40"
+         cx="47.120193"
+         cy="147.35768"
+         rx="23.158651"
+         ry="20.588457" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="35.644924"
+         y="149.0258"
+         id="text2012"><tspan
+           sodipodi:role="line"
+           id="tspan2010"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="35.644924"
+           y="149.0258">gestion</tspan></text>
+    </g>
+    <g
+       id="g9681"
+       transform="matrix(0.75937558,0,0,0.57733085,28.951609,-2.1286339)"
+       onclick="window.open('https://www.youtube.com/watch?v=Y6a27QAFQmw','blank')"
+       style="cursor:pointer;">
+      <ellipse
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.202503;stroke-opacity:1"
+         id="path40-1"
+         cx="128.22403"
+         cy="188.76634"
+         rx="22.306042"
+         ry="19.735847" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="121.94134"
+         y="191.9077"
+         id="text2012-6"><tspan
+           sodipodi:role="line"
+           id="tspan2010-6"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+           x="121.94134"
+           y="191.9077">IOT</tspan></text>
+    </g>
+  </g>
+</svg>
