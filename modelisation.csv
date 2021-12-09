@@ -1,10 +1,11 @@
 physiques,acteurs,concept label,concept uri,sujet,predicat,objet
-casque,ouvriers,iot,https://www.youtube.com/watch?v=Y6a27QAFQmw,a3,c4,p2
-pelle mécanique,conducteurs travaux,gestion,,a3,c4,p2
-camion,ingénieurs,management ,,,,
-grue,architectes,approvisionnement,,,,
-telephone,managers,construction,,,,
-aptope,,planification,,,,
-camera,,,,,,
-capteur ,,,,,,
-gps,,,,,,
+casque connecte,ouvriers,iot,https://www.openscience.fr/Issues-and-Challenges-of-the-Internet-of-Things-IoT,a2,c2,p2
+smartphone,conducteurs travaux,gestion,https://www.openscience.fr/Reinforcement-Learning-and-Blockchain-to-secure-the-Internet-of-Things,a2,c6,p11
+ordinateur,ingénieurs,management ,https://www.openscience.fr/Internet-of-Things-IoT-Concepts-Issues-Challenges-and-Perspectives,a2,c3,p6
+camera,architectes,construction,https://www.openscience.fr/Issues-and-Challenges-of-the-Internet-of-Things-IoT,a3,c2,p2
+capteur ,managers,planification,https://www.openscience.fr/Industrial-Internet-of-Things-to-improve-lean-manufacturing-culture-literature,a3,c5,p6
+gps,sous traitants,numerisation des docuements,https://www.openscience.fr/L-Internet-des-Objets-l-Internet-of-Everything-quelques-remarques-sur-l,a3,c3,p4
+,,,,a3,c3,p5
+,,,,a4,c2,p2
+,,,,a4,c2,
+,,,,a4,,
